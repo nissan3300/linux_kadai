@@ -1,0 +1,9 @@
+mkdir kadai_007
+ls
+cd kadai_007
+touch kadai_007.txt
+ls
+chmod 444 kadai_007.txt
+ls-l
+chmod 666 kadai_007.txt
+ls -l
